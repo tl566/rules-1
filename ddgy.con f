@@ -1,0 +1,4 @@
+hostname = game.xiaojukeji.com
+
+#滴滴果园
+https://game.xiaojukeji.com/api/game/mission/get url script-request-header https://gitee.com/xiecoll/radish-script/raw/master/ddgy.js
