@@ -1,4 +1,0 @@
-hostname = api2.e.kuaishou.com, api.e.kuaishou.com, nebula.kuaishou.com,
-
-#快手极速版获取cook
-https://nebula.kuaishou.com/rest/n/nebula/activity/earn/overview/basicInfo url script-request-header https://raw.githubusercontent.com/liuqi6968/-/main/ks_js.js
